@@ -121,8 +121,9 @@ s.close()
 
 ```
 ## OUPUT -RARP
-<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/72944017-fe63-4a2d-aa84-21d94fa9a631" />
-<img width="1917" height="1013" alt="image" src="https://github.com/user-attachments/assets/3dc007b3-b885-4d98-b54c-17c198b94a42" />
+<img width="1917" height="1015" alt="Screenshot 2026-11-21 082100" src="https://github.com/user-attachments/assets/bbf094aa-0cf7-4369-8bbc-8401ef2805da" />
+<img width="1917" height="1013" alt="Screenshot 2026-11-21 082119" src="https://github.com/user-attachments/assets/2ad91062-0a82-459c-8ee1-f947206cf99c" />
+
 
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
