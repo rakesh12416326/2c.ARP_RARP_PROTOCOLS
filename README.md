@@ -65,8 +65,9 @@ s.close()
 
 ```
 ## OUPUT - ARP
-<img width="1917" height="1006" alt="image" src="https://github.com/user-attachments/assets/85e49333-c01d-4f5a-934f-6ba184147968" />
-<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/9dfcb6cb-3694-4eca-8f2d-e545e113c36f" />
+<img width="542" height="188" alt="image" src="https://github.com/user-attachments/assets/f01e4adf-1a33-4ab3-972e-c150ea61d3be" />
+<img width="505" height="161" alt="image" src="https://github.com/user-attachments/assets/a4d3414a-e96a-43f1-908b-58aae6a734ce" />
+
 
 ## PROGRAM - RARP
 ### server program:
@@ -121,8 +122,9 @@ s.close()
 
 ```
 ## OUPUT -RARP
-<img width="1917" height="1015" alt="Screenshot 2026-11-21 082100" src="https://github.com/user-attachments/assets/bbf094aa-0cf7-4369-8bbc-8401ef2805da" />
-<img width="1917" height="1013" alt="Screenshot 2026-11-21 082119" src="https://github.com/user-attachments/assets/2ad91062-0a82-459c-8ee1-f947206cf99c" />
+<img width="521" height="128" alt="image" src="https://github.com/user-attachments/assets/0794be83-4f1f-41d3-9df1-8ac90752df76" />
+<img width="513" height="127" alt="image" src="https://github.com/user-attachments/assets/c277aa36-5c92-47de-af83-d6828477d390" />
+
 
 
 ## RESULT
